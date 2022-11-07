@@ -1,7 +1,7 @@
 Dependency Tool for D
 =====================
 
-[![Build Status](https://travis-ci.com/funkwerk/depend.svg?branch=master)](https://travis-ci.com/funkwerk/depend)
+[![Build Status](https://github.com/funkwerk-mobility/depend/workflows/CI/badge.svg)](https://github.com/funkwerk-mobility/depend/actions?query=workflow%3ACI)
 
 The `depend` tool helps to visualize import dependencies.
 Moreover, it allows to check them against a UML model of target dependencies.
